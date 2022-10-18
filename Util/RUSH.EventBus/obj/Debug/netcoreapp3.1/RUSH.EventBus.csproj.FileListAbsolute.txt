@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\bin\Debug\netcoreapp3.1\RUSH.EventBus.deps.json
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\bin\Debug\netcoreapp3.1\RUSH.EventBus.dll
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\bin\Debug\netcoreapp3.1\RUSH.EventBus.pdb
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.AssemblyInfo.cs
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.dll
+C:\Users\User\Desktop\RUSH Test\RUSH\Util\RUSH.EventBus\obj\Debug\netcoreapp3.1\RUSH.EventBus.pdb

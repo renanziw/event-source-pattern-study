@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\bin\Debug\netcoreapp3.1\RUSH.App.Domain.deps.json
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\bin\Debug\netcoreapp3.1\RUSH.App.Domain.dll
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\bin\Debug\netcoreapp3.1\RUSH.App.Domain.pdb
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.dll
+C:\Users\User\Desktop\RUSH Test\RUSH\App\RUSH.App.Domain\obj\Debug\netcoreapp3.1\RUSH.App.Domain.pdb

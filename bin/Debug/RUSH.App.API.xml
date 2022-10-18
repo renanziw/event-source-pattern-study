@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RUSH.App.API</name>
+    </assembly>
+    <members>
+        <member name="M:RUSH.App.API.Controllers.EventController.GetAllEventsAsync">
+            <summary>
+            Gets list with available events
+            </summary>
+        </member>
+        <member name="M:RUSH.App.API.Controllers.ToDoController.GetAllToDosAsync">
+            <summary>
+            Gets list with available ToDos
+            </summary>
+        </member>
+        <member name="M:RUSH.App.API.Controllers.ToDoController.GetToDoAsync(System.Guid)">
+            <summary>
+            Gets specific ToDo by id
+            </summary>
+        </member>
+        <member name="M:RUSH.App.API.Controllers.ToDoController.AddToDoAsync(System.String)">
+            <summary>
+            Add new ToDo with status ToDo
+            </summary>
+        </member>
+        <member name="M:RUSH.App.API.Controllers.ToDoController.StartToDoAsync(System.Guid)">
+            <summary>
+            Start a existing ToDo. "Mark it as Doing"
+            </summary>
+        </member>
+        <member name="M:RUSH.App.API.Controllers.ToDoController.FinishToDoAsync(System.Guid)">
+            <summary>
+            Finish a existing ToDo. "Mark it as Done"
+            </summary>
+        </member>
+    </members>
+</doc>

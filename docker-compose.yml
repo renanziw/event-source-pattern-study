@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  RUSH.App.api:
+    image: ${DOCKER_REGISTRY-}todosapi
+    build:
+      context: .
+      dockerfile: App/RUSH.App.API/Dockerfile
